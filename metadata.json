@@ -1,0 +1,5 @@
+{
+  "name": "Assisto Code Reviewer",
+  "description": "An AI-powered tool that automatically reviews your code, providing suggestions for improvement, identifying potential bugs, and ensuring best practices.",
+  "requestFramePermissions": []
+}

@@ -31,7 +31,9 @@
 3. Run the app:
    `npm run dev`
 
-# Application Images : 
+##  Application Images : 
 
    <img width="1915" height="1034" alt="Screenshot from 2025-08-03 10-50-13" src="https://github.com/user-attachments/assets/412b96de-58f6-4bf7-a470-9e30fa4ee11d" />
+   <img width="1915" height="1034" alt="Screenshot from 2025-08-03 10-52-12" src="https://github.com/user-attachments/assets/cb7b60a4-a7a5-4386-b5ea-ba47fe1a43e2" />
+
 

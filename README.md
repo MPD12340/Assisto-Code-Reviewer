@@ -28,7 +28,7 @@
  - Head over to https://aistudio.google.com/apikey
  - Create a new key by selecting a specific project
 
-3. Run the app:
+4. Run the app:
    `npm run dev`
 
 ##  Application Images : 
